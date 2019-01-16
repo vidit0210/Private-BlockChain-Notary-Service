@@ -2,7 +2,7 @@
   "name": "privatenotaryservice",
   "version": "1.0.0",
   "description": "Building a private Notary Service ",
-  "main": "Block.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,7 +19,10 @@
   "dependencies": {
     "bitcoinjs-lib": "^4.0.2",
     "bitcoinjs-message": "^2.0.0",
+    "body-parser": "^1.18.3",
     "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
     "level": "^4.0.0"
   }
 }

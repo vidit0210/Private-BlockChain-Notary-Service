@@ -189,4 +189,4 @@ class BlockChain {
     });
   }
 }
-modules.exports = BlockChain;
+module.exports = BlockChain;
