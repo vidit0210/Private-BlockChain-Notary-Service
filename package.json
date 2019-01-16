@@ -1,0 +1,23 @@
+{
+  "name": "privatenotaryservice",
+  "version": "1.0.0",
+  "description": "Building a private Notary Service ",
+  "main": "Block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidit0210/Private-BlockChain-Notary-Service.git"
+  },
+  "author": "Vidit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidit0210/Private-BlockChain-Notary-Service/issues"
+  },
+  "homepage": "https://github.com/vidit0210/Private-BlockChain-Notary-Service#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "level": "^4.0.0"
+  }
+}
